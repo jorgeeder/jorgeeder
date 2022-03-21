@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jorge Eder</h1>
 
 
-- 🔥 I'm a React Native Junior Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Ignite at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
+- 🔥 I'm a React Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Ignite at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
 - 👀 I'm interested in developing my skills as a programmer.
 
 
